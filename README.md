@@ -10,5 +10,6 @@ This is the repo for the work, exercises and analysis related to the [Springboar
 | Machine Learning | Linear regression on Boston housing data | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Linear_Regression.ipynb) |
 | | Logistic regression on heights and weights | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Logistic_Regression.ipynb) |
 | | Predicting movie ratings from reviews using Naive Bayes | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Naive_Bayes.ipynb) |
-| | | |  
+| | Customer segmentation using Clustering | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Clustering.ipynb)  |  
+| | | |
 
