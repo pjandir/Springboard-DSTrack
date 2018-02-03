@@ -1,5 +1,5 @@
-# Springboard-DSTrack
-This is the repo for the work, exercises and analysis related to the [Springboard Data Science Career Track program](https://www.springboard.com/workshops/data-science-career-track). The capstone projects for the course can be found in separate repos (no longer hosted here). The table below shows the mini-reports completed thus far.
+# Springboard Data Science Career Track
+This is the repo for the work, exercises and analysis related to the [Springboard Data Science Career Track program](https://www.springboard.com/workshops/data-science-career-track). The capstone projects for the course can be found in separate repos and are no longer hosted here (the first capstone can be found here). The table below shows the mini-reports and exercises I have completed so far in the program.
 
 | Chapter | Subject | File |
 | --- | --- | --- |
@@ -12,4 +12,5 @@ This is the repo for the work, exercises and analysis related to the [Springboar
 | | Predicting movie ratings from reviews using Naive Bayes | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Naive_Bayes.ipynb) |
 | | Customer segmentation using Clustering | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Clustering.ipynb)  |  
 | | | |
+
 
