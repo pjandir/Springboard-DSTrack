@@ -1,5 +1,5 @@
 # Springboard Data Science Career Track
-This is the repo for the work, exercises and analysis related to the [Springboard Data Science Career Track program](https://www.springboard.com/workshops/data-science-career-track). The capstone projects for the course can be found in separate repos and are no longer hosted here (the first capstone can be found [here](https://github.com/pjandir/CapstoneProject1)). The table below shows the mini-reports and exercises I have completed so far in the program.
+This is the repository for the work, exercises and analysis related to the [Springboard Data Science Career Track program](https://www.springboard.com/workshops/data-science-career-track). The capstone projects for the course can be found in separate repos and are no longer hosted here (the first capstone can be found [here](https://github.com/pjandir/CapstoneProject1)). The table below shows the mini-reports, projects, and exercises I have completed so far in the program.
 
 | Chapter | Subject | File |
 | --- | --- | --- |
@@ -12,7 +12,8 @@ This is the repo for the work, exercises and analysis related to the [Springboar
 | | Predicting movie ratings from reviews using Naive Bayes | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Naive_Bayes.ipynb) |
 | | Customer segmentation using Clustering | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Clustering.ipynb)  |  
 | Data Science at Scale | MapReduce and Spark | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/ds_at_scale_18/spark/pyspark.ipynb) |
-| Take-Home Challenge |  |  |
-| | | |
+| Take-Home Challenge | Relax Challenge - Import factors for prediction | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/take_home_challenges_20.1/relax_challenge/solution.ipynb) |
+| | Ultimate Challenge | report |
+
 
 
