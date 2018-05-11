@@ -12,8 +12,8 @@ This is the repository for the work, exercises and analysis related to the [Spri
 | | Predicting movie ratings from reviews using Naive Bayes | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Naive_Bayes.ipynb) |
 | | Customer segmentation using Clustering | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/machine_learning_11/Mini_Project_Clustering.ipynb)  |  
 | Data Science at Scale | MapReduce and Spark | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/ds_at_scale_18/spark/pyspark.ipynb) |
-| Take-Home Challenge | Relax Challenge - Import factors for prediction | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/take_home_challenges_20.1/relax_challenge/solution.ipynb) |
-| | Ultimate Challenge | report |
+| Take-Home Challenge | Relax Challenge - Important factors for prediction | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/take_home_challenges_20.1/relax_challenge/solution.ipynb) |
+| | Ultimate Challenge - End-to-end DS analysis | [report](https://github.com/pjandir/Springboard-DSTrack/blob/master/Exercises/take_home_challenges_20.1/ultimate_challenge/solution.ipynb) |
 
 
 
